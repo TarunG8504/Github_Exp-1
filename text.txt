@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 HELLO GUYS Im Tarun
+=======
+HELLO Everyone
+>>>>>>> Stashed changes
